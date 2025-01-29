@@ -3,7 +3,7 @@
 ## 🎯 Portfolio Project Overview
 This is a portfolio demonstration of a lead generation and email marketing automation platform that achieved a 30% increase in lead generation for client companies. The platform was actively used by businesses to automate their lead generation processes and track campaign performance.
 
-![Dashboard Preview](frontend/public/images/image.png)
+![Dashboard Preview](image.png)
 
 > **Note**: This is now a portfolio demonstration version of a previously active commercial project.
 
